@@ -1,5 +1,12 @@
 {
     "user": [
-        
+         {
+
+         "id": 1,
+            "name": "Rostislav",
+            "sirname": "Kondratyuk",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCxvPS2Mn4dv9Vuy-1ChoyZHvC7eQ73arjUoer4aqa-iQU4o1NxtPeQZI1B7nMBWFgrYc&usqp=CAU",
+            "balance": 1500
+            }
     ]
 }
