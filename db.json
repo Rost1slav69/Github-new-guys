@@ -1,19 +1,20 @@
 {
     "user": [
         {
-<<<<<<< HEAD
+
         "id": 3,
         "name": "Vanya",
         "sirname": "Leonenko",
         "photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gfps.com%2F&psig=AOvVaw1mR3VtdUYg1_HMfPDccvnl&ust=1681659839363000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjZz5udrP4CFQAAAAAdAAAAABAI",
         "balance": 12345678
-=======
+        },
+        {
             "id": 2,
             "name": "Viacheslav",
             "sirname": "Khutornij",
             "photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fglamurchik.tochka.net%2Fua%2F284384-bloger-nekoglay-zayaviv-shcho-zibravsya-u-politiku-budu-premer-ministrom-moldovi%2F&psig=AOvVaw3Ax901pb7JVyEataPz6fo9&ust=1681659818811000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPC1iJOdrP4CFQAAAAAdAAAAABAJ",
             "balance": 14000
->>>>>>> afff43187a30d609c4bbd042bb647de086fbfd50
+
         }
     ]
 }
