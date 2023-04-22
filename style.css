@@ -1,0 +1,19 @@
+body{
+  background: #800080; 
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body{
+height: 100%;
+}
+
+footer {
+  background:red;
+  text-align:center;
+  flex-direction: column;
+  font-size: 42px;
+}
