@@ -1,5 +1,14 @@
 {
     "user": [
+
+         {
+
+         "id": 1,
+            "name": "Rostislav",
+            "sirname": "Kondratyuk",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCxvPS2Mn4dv9Vuy-1ChoyZHvC7eQ73arjUoer4aqa-iQU4o1NxtPeQZI1B7nMBWFgrYc&usqp=CAU",
+            "balance": 1500
+            },
         {
 
         "id": 3,
@@ -7,8 +16,12 @@
         "sirname": "Leonenko",
         "photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gfps.com%2F&psig=AOvVaw1mR3VtdUYg1_HMfPDccvnl&ust=1681659839363000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjZz5udrP4CFQAAAAAdAAAAABAI",
         "balance": 12345678
+
         },
         {
+=======
+        },{
+
             "id": 2,
             "name": "Viacheslav",
             "sirname": "Khutornij",
@@ -16,5 +29,6 @@
             "balance": 14000
 
         }
+
     ]
 }
